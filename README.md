@@ -1,5 +1,5 @@
-# aluraplus-challenge
-A challenge to create a streaming service page from Alura's course.
+# About this
+A challenge to create a streaming service page from Alura's course so I can test my HTML and CSS abilities.
 <h1>Alura - Streaming service page 'Alura Plus'</h1>
 <h2>The challenge</h2>
 The challenge was to build 2 sections of this page and the footer based on what I learned on the Alura's course.
